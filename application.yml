@@ -5,7 +5,6 @@ spring:
 
 data:
   queue:
-    name: "animals"
+    name: animals
   logqueue:
-    name:
-      "log_animals"
+    name: log_animals
