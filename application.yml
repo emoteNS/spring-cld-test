@@ -1,3 +1,11 @@
 spring:
   rabbitmq:
-    port: 2765
+    port: 5672
+
+
+data:
+  queue:
+    name: "animals"
+  logqueue:
+    name:
+      "log_animals"
