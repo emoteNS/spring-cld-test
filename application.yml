@@ -1,8 +1,6 @@
 spring:
   rabbitmq:
-    port: 5672
-
-
+    port: 2765
 data:
   queue:
     name: animals
